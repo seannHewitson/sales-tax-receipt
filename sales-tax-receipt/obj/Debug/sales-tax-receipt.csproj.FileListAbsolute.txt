@@ -1,0 +1,7 @@
+C:\Users\sean\Desktop\Repositories\sales-tax-receipt\sales-tax-receipt\bin\Debug\sales-tax-receipt.exe.config
+C:\Users\sean\Desktop\Repositories\sales-tax-receipt\sales-tax-receipt\bin\Debug\sales-tax-receipt.exe
+C:\Users\sean\Desktop\Repositories\sales-tax-receipt\sales-tax-receipt\bin\Debug\sales-tax-receipt.pdb
+C:\Users\sean\Desktop\Repositories\sales-tax-receipt\sales-tax-receipt\obj\Debug\sales-tax-receipt.csprojAssemblyReference.cache
+C:\Users\sean\Desktop\Repositories\sales-tax-receipt\sales-tax-receipt\obj\Debug\sales-tax-receipt.csproj.CoreCompileInputs.cache
+C:\Users\sean\Desktop\Repositories\sales-tax-receipt\sales-tax-receipt\obj\Debug\sales-tax-receipt.exe
+C:\Users\sean\Desktop\Repositories\sales-tax-receipt\sales-tax-receipt\obj\Debug\sales-tax-receipt.pdb
